@@ -22,3 +22,19 @@ Answer these questions about the code.  Be specific in your answers!
 
 3. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
 > Answer 3
+
+```python
+number = int(input("Enter a number: "))
+
+if number % 2 == 0:
+    print(number, "is even.")
+else:
+    print(number, "is odd.")
+```
+
+4. What does the `%` operator do in the conditional test shown above?
+> Answer 4
+
+
+5. How does the code determine if a number is even or odd?
+   > Answer 5
