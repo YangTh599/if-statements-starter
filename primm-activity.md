@@ -21,4 +21,4 @@ Answer these questions about the code.  Be specific in your answers!
 
 
 3. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
-> Answer
+> Answer 3
