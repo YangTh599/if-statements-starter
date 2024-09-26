@@ -24,10 +24,10 @@ Complete the stations in order.
 3. __________________________________________________________.
 ---
 
-### Station 3
-- Offline / Online
-- *Objective*
-- Do this
+### Station 3: Predict the Output
+- Offline 
+- Study each code snippet below
+- Write down on this sheet of paper what you predict each snippet would do if you ran it in your code editor.
 
 ---
 
