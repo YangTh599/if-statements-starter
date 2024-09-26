@@ -1,5 +1,5 @@
 # Station Rotation
-## Topic
+## Python IF Statements
 
 ### Directions
 Complete the stations in order.
@@ -7,9 +7,12 @@ Complete the stations in order.
 ---
 
 ### Station 1
-- Offline / Online
-- *Objective*
-- Do this
+- Offline
+- List three (3) specific decisions you have to make each day.
+> Example
+>
+> If it's raining, I wear my rain jacket.
+
 
 ---
 
