@@ -34,8 +34,9 @@ Complete the stations in order.
 # Code Snippet 2
 
 # Code Snippet 3
----
+```
 
+---
 ### Station 4
 - Offline / Online
 - *Objective*
@@ -45,6 +46,5 @@ Complete the stations in order.
 ### Station 5:
 - Online
 - Text
-
 
 ---
