@@ -28,7 +28,12 @@ Complete the stations in order.
 - Offline 
 - Study each code snippet below
 - Write down on this sheet of paper what you predict each snippet would do if you ran it in your code editor.
+```python
+# Code Snippet 1
 
+# Code Snippet 2
+
+# Code Snippet 3
 ---
 
 ### Station 4
