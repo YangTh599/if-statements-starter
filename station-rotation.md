@@ -6,7 +6,7 @@ Complete the stations in order.
 
 ---
 
-### Station 1
+### Station 1: Everyday Decisions
 - Offline
 - List three (3) specific decisions you have to make each day.
 > Example
