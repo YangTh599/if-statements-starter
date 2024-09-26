@@ -5,8 +5,13 @@
 Complete the stations in order.
 
 ---
+### Station 1
+- Online
+- Complete the self-analysis about making decisions in Python.
+- [Self-Analysis: Making Decisions in Python](URL)
 
-### Station 1: Everyday Decisions
+---
+### Station 2: Everyday Decisions
 - Offline
 - List three (3) specific decisions you have to make each day.
 - Start each sentence with the word **if** and then write what you do when you have to make that decision.
@@ -17,13 +22,6 @@ Complete the stations in order.
 1. __________________________________________________________.
 2. __________________________________________________________.
 3. __________________________________________________________.
----
-
-### Station 2
-- Offline / Online
-- *Objective*
-- Do this
-
 ---
 
 ### Station 3
