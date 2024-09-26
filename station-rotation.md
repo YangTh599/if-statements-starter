@@ -5,7 +5,7 @@
 Complete the stations in order.
 
 ---
-### Station 1
+### Station 1: Self-Analysis (Making Decisions in Python)
 - Online
 - Complete the self-analysis about making decisions in Python.
 - [Self-Analysis: Making Decisions in Python](https://forms.gle/scFATkCRXSgoijEC6)
