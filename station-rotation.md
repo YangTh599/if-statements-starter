@@ -9,7 +9,8 @@ Complete the stations in order.
 ### Station 1: Everyday Decisions
 - Offline
 - List three (3) specific decisions you have to make each day.
-> Example
+- Start each sentence with the word *if** and then write what you do when you have to make that decision.
+> Example:
 >
 > If it's raining, I wear my rain jacket.
 
