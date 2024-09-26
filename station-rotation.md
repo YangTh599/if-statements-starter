@@ -8,7 +8,7 @@ Complete the stations in order.
 ### Station 1
 - Online
 - Complete the self-analysis about making decisions in Python.
-- [Self-Analysis: Making Decisions in Python](URL)
+- [Self-Analysis: Making Decisions in Python](https://forms.gle/scFATkCRXSgoijEC6)
 
 ---
 ### Station 2: Everyday Decisions
