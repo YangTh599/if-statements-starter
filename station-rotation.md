@@ -13,11 +13,11 @@ Complete the stations in order.
 ---
 ### Station 2: Everyday Decisions
 - Offline
-- List three (3) specific decisions you have to make each day.
-- Start each sentence with the word **if** and then write what you do when you have to make that decision.
+- List three (3) specific decisions you have to make each day
+- Use the format shown below, i.e., start each sentence with the keyword **if** and then write what you do when you have to make that decision
 > Example:
 >
-> If it's raining, I wear my rain jacket.
+> *If it's raining, I wear my rain jacket.*
 
 1. __________________________________________________________.
 2. __________________________________________________________.
