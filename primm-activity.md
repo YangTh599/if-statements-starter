@@ -13,15 +13,15 @@ if price >= 49.99:
 Answer these questions about the code.  Be specific in your answers!
 
 1. Using the code snippet shown above, what would the output be?
-> Answer 1
+
 
 
 2. Change the item price to 39.50.  Now what would the output or look like?
-> Answer 2
+
 
 
 3. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
-> Answer 3
+
 
 ```python
 number = int(input("Enter a number: "))
@@ -33,8 +33,8 @@ else:
 ```
 
 4. What does the `%` operator do in the conditional test shown above?
-> Answer 4
+
 
 
 5. How does the code determine if a number is even or odd?
-   > Answer 5
+
