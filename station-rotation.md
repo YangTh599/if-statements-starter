@@ -37,14 +37,16 @@ Complete the stations in order.
 ```
 
 ---
-### Station 4
-- Offline / Online
-- *Objective*
-- Do this
+### Station 4: Debug the If Statements
+- Offline
+- Debug each if statement shown on the handout
+- Write your correction next to the if statement on the handout
+- Check your answers against the answer key your teacher provides
 
 ---
-### Station 5:
-- Online
-- Text
+### Station 5: Simple If Statements Practice
+- VS Code
+- Upload your script for Station 5 to a new repo you create on GitHub
+- Be prepared to discuss your work during Teacher Time
 
 ---
