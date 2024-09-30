@@ -41,9 +41,9 @@ print()
 filename = "thisisanimage.png"
 
 if filename.endswith('.png'):
-    print('Filename does end in ".png".')
+    print(f'Filename {filename} does end in ".png".')
 else:
-    print('Filename does not end in ".png".')
+    print(f'Filename {filename} does not end in ".png".')
 
 print()
 
