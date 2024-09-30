@@ -45,7 +45,7 @@ else:
     
 is_registered = False
 
-if is_registered == False:
+if not is_registered:
     print('You are not registered for classes at NMC.')
 else:
     print('You are registered for classes at NMC.')
